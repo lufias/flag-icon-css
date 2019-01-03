@@ -1,3 +1,13 @@
+### Note: This is a fork of the original version
+
+https://github.com/lipis/flag-icon-css
+
+
+
+#### <u>Fork changes:</u>
+
+Add default flag
+
 # flag-icon-css
 
 [![npm version](https://badge.fury.io/js/flag-icon-css.svg)](https://badge.fury.io/js/flag-icon-css)
