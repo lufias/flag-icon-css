@@ -6,7 +6,7 @@ https://github.com/lipis/flag-icon-css
 
 #### <u>Fork changes:</u>
 
-Add default flag
+Add default flag: undefined.svg
 
 # flag-icon-css
 
